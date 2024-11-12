@@ -59,7 +59,7 @@ The six interfaces of the RAMES:
 
 you can test the GET interface by using the browser. For example, you can test the /monitor interface by entering the following URL in the browser:
 
-www.localhost:5000/monitor
+www.localhost:50000/monitor
 
 For the POST, you need to run it by using the curl command. 
 It's a bit complex to test the POST interface, please read the dataclass and execute() in the api.py carefully to understand the data structure of the POST request.
